@@ -22,7 +22,7 @@ I've made this quiz app using HTML, CSS and JavaScript. I've created a section i
 - First of all you need to download the entire folder.
 - Then open the index.html file in any browser.
 - You're done! Enjoy the quiz app.
-- You also can use quiz app online by using this <a href="https://mdrakibulislam-zero.github.io/WebQuizApp/" > link</a>.
+- You also can use the quiz app online by using this <a href="https://mdrakibulislam-zero.github.io/WebQuizApp/" > link</a>.
 
 
 ## Tutorial:
