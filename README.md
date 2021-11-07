@@ -9,7 +9,7 @@ src="https://github.com/mdrakibulislam-zero/WebQuizApp/blob/main/Outcome.png" />
 
 
 ## What Have I Done:
-I've made this quiz app using HTML, CSS and JavaScript. I've created a section in script.js file for add the questions and answers.
+I've made this quiz app using HTML, CSS and JavaScript. I've created a section in script.js file for add the questions and answers easily.
 
 
 ## Required Skills:
