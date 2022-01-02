@@ -1,5 +1,5 @@
 ## Web Quiz App:
-This is a simple quiz app based on Web which made with HTML, CSS and JavaScript. It's able to count your score.
+This is a simple quiz app based on Web which made with HTML, CSS and JavaScript. It's able to count scores.
 
 
 ## Outcome:
@@ -9,7 +9,7 @@ src="https://github.com/mdrakibulislam-zero/WebQuizApp/blob/main/Outcome.png" />
 
 
 ## What Have I Done:
-I've made this quiz app using HTML, CSS and JavaScript. I've created a section in script.js file for add the questions and answers easily.
+I've made this simple quiz app using HTML, CSS and JavaScript. I've created a section in script.js file for add the questions and answers easily.
 
 
 ## Required Skills:
@@ -21,8 +21,8 @@ I've made this quiz app using HTML, CSS and JavaScript. I've created a section i
 ## Usage:
 - First of all you need to download the entire folder.
 - Then open the index.html file in any browser.
-- You're done! Enjoy the quiz app.
-- You also can use the quiz app online by using this <a href="https://mdrakibulislam-zero.github.io/WebQuizApp/" > link</a>.
+- You're done! Enjoy the simple quiz app.
+- You also can use the simple quiz app online by using this <a href="https://mdrakibulislam-zero.github.io/WebQuizApp/" > link</a>.
 
 
 ## Tutorial:
