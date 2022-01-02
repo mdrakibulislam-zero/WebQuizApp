@@ -21,8 +21,8 @@ I've made this simple quiz app using HTML, CSS and JavaScript. I've created a se
 ## Usage:
 - First of all you need to download the entire folder.
 - Then open the index.html file in any browser.
-- You're done! Enjoy the simple quiz app.
-- You also can use the simple quiz app online by using this <a href="https://mdrakibulislam-zero.github.io/WebQuizApp/" > link</a>.
+- You're done! Enjoy the quiz app.
+- You also can use the quiz app online by using this <a href="https://mdrakibulislam-zero.github.io/WebQuizApp/" > link</a>.
 
 
 ## Tutorial:
